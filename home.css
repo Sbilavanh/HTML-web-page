@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-stretch: semi-expanded;
+
+    background-color: bisque;
+}
+
+body {
+    background-color: orangered;
+}
+
+div {
+    text-align: center;
+    text-size-adjust: xx-large;
+    text-transform: inherit;
+}
+
+h3 {
+    text-align: center;
+    font-style: italic;
+    text-size-adjust: xx-large;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}
+
+#moveimagetotheright {
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+    left: 300px;
+}
