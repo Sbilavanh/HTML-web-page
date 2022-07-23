@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-stretch: semi-expanded;
+
+    background-color: bisque;
+}
+
+body {
+    background-color: orangered;
+}
+
+div {
+    text-align: center;
+    text-size-adjust: xx-large;
+    text-transform: inherit;
+}

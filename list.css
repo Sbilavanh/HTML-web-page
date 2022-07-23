@@ -16,29 +16,21 @@ div {
     text-transform: inherit;
 }
 
-h3 {
+ul {
+    list-style-type: none;
     text-align: center;
     font-style: italic;
     text-size-adjust: xx-large;
 }
 
-.pic {
-    display: flex;
-    justify-content: space-around;
-    float: left;
-    padding: 20px
+table {
+    border-collapse: collapse;
+    width: 100%;
 }
 
-.pic2 {
-    display: flex;
-    justify-content: space-around;
-    float: left;
-    padding: 20px
-}
-
-.pic3 {
-    display: flex;
-    justify-content: space-around;
-    float: left;
-    padding: 20px
+th,
+td {
+    padding: 3px;
+    text-align: left;
+    border-bottom: 2px solid black;
 }
